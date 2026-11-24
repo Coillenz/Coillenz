@@ -1,3 +1,1 @@
-A not so talented programmer in the making :).
-
-Can write C#, javascript, dart, css, HTML, Java, C, a little bit of C++, a bit of Rust and lua.
+Can write C#, Javascript, Typescript dart, CSS, HTML, Java, C, a bit of C++, Rust and lua.
